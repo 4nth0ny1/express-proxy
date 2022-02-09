@@ -1,0 +1,24 @@
+{
+  "name": "express-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4nth0ny1/express-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4nth0ny1/express-proxy/issues"
+  },
+  "homepage": "https://github.com/4nth0ny1/express-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http-proxy-middleware": "^2.0.3",
+    "morgan": "^1.10.0"
+  }
+}
